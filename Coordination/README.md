@@ -1,6 +1,20 @@
 # Coordination papers
 
 ----------
+
+### New Ref Papers:
+* <font color=#FF0000 >AAAI-2002, Context-Specific Multiagent Coordination and Planning with Factored MDPs</font>
+* ACML 2018, CCNet: Cluster-Coordinated Net for Learning Multi-agent Communication Protocols with Reinforcement Learning
+* ICML-2018, Learning to Coordinate with Coordination Graphs in Repeated Single-Stage Multi-Agent Decision Problems
+* NIPS-2018, Deep Multi-Agent Reinforcement Learning with Relevance Graphs
+* AAMAS-2019, Multiagent Learning and Coordination with Clustered Deep Q-Network
+* ICML-2019 workshop, Neural-Attentional Architectures for Deep Multi-Agent Reinforcement Learning in Varying Environments
+* AAAI-2020, Multi-Agent Game Abstraction via Graph Attention Neural Network
+* AAAI-2020, Multi-Agent Actor-Critic with Hierarchical Graph Attention Network
+* AAMAS-2020 underreview, Group Q-Learning for Collective Behaviors without Explicit Communication
+
+----------
+
 * 1.【ICML 2002】Coordinated Reinforcement Learning
 * 2.【ICML 2006】Sparse Cooperative Q-learning
 * 3.【JMLR 2006】Collaborative Multiagent Reinforcement Learning by Payoff Propagation
